@@ -1,2 +1,3 @@
-my first readme
+AlX course is great
+alx endl
 
